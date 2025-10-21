@@ -76,16 +76,17 @@ This project demonstrates an advanced full-stack architecture using **Next.js**,
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](./images/landing-preview.png)
+![Landing Page](https://github.com/AHMAD-JX/SaaSify-Dashboard-Subscription-Management/blob/3226f409d745e4421ede4854d3c555202ba171cf/frontend/1.jpg)
 
 ### 📊 Dashboard Overview
-![Dashboard](./images/dashboard-preview.png)
+![Dashboard](https://github.com/AHMAD-JX/SaaSify-Dashboard-Subscription-Management/blob/3226f409d745e4421ede4854d3c555202ba171cf/frontend/3.png)
+![Dashboard](https://github.com/AHMAD-JX/SaaSify-Dashboard-Subscription-Management/blob/3226f409d745e4421ede4854d3c555202ba171cf/frontend/6.png)
 
 ### 💼 Subscription Management
-![Subscriptions](./images/subscriptions-preview.png)
+![Subscriptions](https://github.com/AHMAD-JX/SaaSify-Dashboard-Subscription-Management/blob/3226f409d745e4421ede4854d3c555202ba171cf/frontend/4.png)
+![Subscriptions](https://github.com/AHMAD-JX/SaaSify-Dashboard-Subscription-Management/blob/3226f409d745e4421ede4854d3c555202ba171cf/frontend/2.png)
 
-### 👤 User Profile
-![Profile](./images/profile-preview.png)
+
 
 ---
 
