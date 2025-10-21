@@ -401,16 +401,7 @@ If you have any questions or need help with the project, please:
 
 ---
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/SaaSify-Dashboard-Subscription-Management&type=Date)](https://star-history.com/#your-username/SaaSify-Dashboard-Subscription-Management&Date)
-
----
-
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/your-username)**
-
-[⭐ Star this repo](https://github.com/your-username/SaaSify-Dashboard-Subscription-Management) | [🐛 Report Bug](https://github.com/your-username/SaaSify-Dashboard-Subscription-Management/issues) | [💡 Request Feature](https://github.com/your-username/SaaSify-Dashboard-Subscription-Management/issues)
 
 </div>
